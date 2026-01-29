@@ -1,5 +1,5 @@
 
-# 4. Real-Time Gesture Recognition with 3D CNNs
+# Real-Time Gesture Recognition with 3D CNNs
 
 ## 🎯 Strategic Tagline
 Real-time finger gesture recognition system using 3D Convolutional Neural Networks with MediaPipe hand tracking, achieving >95% accuracy at 30 FPS for touchless human-computer interaction.
